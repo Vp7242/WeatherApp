@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#331866</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gradient_start">#59469D</color>
+    <color name="gradient_end">#643D67</color>
+</resources>
